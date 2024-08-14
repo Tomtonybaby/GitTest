@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Ã¿’˝Ï«≈£±∆");
+        Debug.Log("git config --global http.sslVersion tlsv1.2");
     }
 
     // Update is called once per frame
